@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2020-03-16阅读笔记-复杂网络视角下的知识传播"
+title:  "2020-03-17阅读笔记-复杂网络视角下的知识传播"
 categories: 阅读笔记
 tags:  复杂系统 知识传播
 author: GarrettLee
