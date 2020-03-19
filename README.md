@@ -1,3 +1,5 @@
+# 本站点原码系来源于gaohaoyang.github.io为确保版权，以下为其版本说明：
+
 # About this Cool Concise Jekyll Blog Theme 🤘🤘🤘
 
 [![GitHub stars](https://img.shields.io/github/stars/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/stargazers)
