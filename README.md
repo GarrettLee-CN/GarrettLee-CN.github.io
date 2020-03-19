@@ -1,4 +1,4 @@
-# 本站点原码系来源于gaohaoyang.github.io为确保版权，以下为其版本说明：
+# 本站点原码系来源于gaohaoyang.github.io！本人博客请访问**[博客](https://www.litan.tech)**。一下为gaohaoyang的版权及版本说明！
 
 # About this Cool Concise Jekyll Blog Theme 🤘🤘🤘
 
